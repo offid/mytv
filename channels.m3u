@@ -13,6 +13,12 @@ http://parking.treasureislandresortsworld.com:1001/hls/19/index.m3u8
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://parking.treasureislandresortsworld.com:1001/hls/305/index.m3u8
+#EXTINF:-1 group-title="卫视",金鹰卡通
+http://parking.treasureislandresortsworld.com:1001/hls/306/index.m3u8
+#EXTINF:-1 group-title="卫视",星空卫视
+http://parking.treasureislandresortsworld.com:1001/hls/314/index.m3u8
 #EXTINF:-1 group-title="澳门",澳视澳门
 http://parking.treasureislandresortsworld.com:1001/hls/1/index.m3u8
 #EXTINF:-1 group-title="澳门",澳视澳门
@@ -31,6 +37,12 @@ http://parking.treasureislandresortsworld.com:1001/hls/16/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="澳门",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="香港",TVB翡翠
+http://parking.treasureislandresortsworld.com:1001/hls/307/index.m3u8
+#EXTINF:-1 group-title="香港",TVB明珠
+http://parking.treasureislandresortsworld.com:1001/hls/308/index.m3u8
+#EXTINF:-1 group-title="香港",TVB新闻
+http://parking.treasureislandresortsworld.com:1001/hls/313/index.m3u8
 #EXTINF:-1 group-title="香港",翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 group-title="香港",翡翠台
@@ -133,26 +145,6 @@ https://6.cdn.loc.cc/163189.php?id=tvbd
 http://parking.treasureislandresortsworld.com:1001/hls/303/index.m3u8
 #EXTINF:-1 group-title="日本",DW
 http://parking.treasureislandresortsworld.com:1001/hls/304/index.m3u8
-#EXTINF:-1 group-title="经典",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="经典",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="经典",龙华经典
-https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1 group-title="经典",龙华卡通
-https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 group-title="经典",龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 group-title="经典",龙华日韩
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 group-title="经典",龙华戏剧
-https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 group-title="经典",龙华洋片
-https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-#EXTINF:-1 group-title="经典",天映频道
-http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="经典",天映经典
-http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 group-title="亚洲",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 group-title="亚洲",Astro AEC
@@ -183,11 +175,9 @@ https://a.ru8.dpdns.org/now/ufc/master.m3u8
 http://nocable.cc:8080/riritaylor/R2424246188T/20073
 #EXTINF:-1 group-title="赛事",F1
 http://nocable.cc:8080/riritaylor/R2424246188T/53704
-#EXTINF:-1 group-title="娱乐",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="广东",广东体育
+#EXTINF:-1 group-title="赛事",广东体育
 http://xhyx.gz.cn:1698/hls/4/index.m3u8
-#EXTINF:-1 group-title="广东",广东珠江
+#EXTINF:-1 group-title="赛事",广东珠江
 http://xhyx.gz.cn:1698/hls/26/index.m3u8
 #EXTINF:-1 group-title="香港",翡翠台
 http://xhyx.gz.cn:1698/hls/5/index.m3u8
@@ -209,3 +199,35 @@ http://xhyx.gz.cn:1698/hls/12/index.m3u8
 http://xhyx.gz.cn:1698/hls/13/index.m3u8
 #EXTINF:-1 group-title="经典",天映经典
 http://xhyx.gz.cn:1698/hls/54/index.m3u8
+#EXTINF:-1 group-title="经典",CNA
+http://parking.treasureislandresortsworld.com:1001/hls/309/index.m3u8
+#EXTINF:-1 group-title="经典",TRT World
+http://parking.treasureislandresortsworld.com:1001/hls/310/index.m3u8
+#EXTINF:-1 group-title="经典",Channel V
+http://parking.treasureislandresortsworld.com:1001/hls/311/index.m3u8
+#EXTINF:-1 group-title="经典",ViuTV6
+http://parking.treasureislandresortsworld.com:1001/hls/315/index.m3u8
+#EXTINF:-1 group-title="经典",ViuTV
+http://parking.treasureislandresortsworld.com:1001/hls/316/index.m3u8
+#EXTINF:-1 group-title="经典",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="经典",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="经典",龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="经典",龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="经典",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="经典",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="经典",龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="经典",龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 group-title="经典",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 group-title="经典",天映经典
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 group-title="娱乐",爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
