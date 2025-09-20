@@ -1,10 +1,36 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视",CCTV1
+http://parking.treasureislandresortsworld.com:1001/hls/17/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://parking.treasureislandresortsworld.com:1001/hls/312/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://parking.treasureislandresortsworld.com:1001/hls/18/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
 https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 group-title="央视",CGTN
+http://parking.treasureislandresortsworld.com:1001/hls/19/index.m3u8
 #EXTINF:-1 group-title="央视",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 group-title="澳门",澳视澳门
+http://parking.treasureislandresortsworld.com:1001/hls/1/index.m3u8
+#EXTINF:-1 group-title="澳门",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="澳门",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="澳门",澳视葡文
+http://parking.treasureislandresortsworld.com:1001/hls/2/index.m3u8
+#EXTINF:-1 group-title="澳门",澳门资讯
+http://parking.treasureislandresortsworld.com:1001/hls/3/index.m3u8
+#EXTINF:-1 group-title="澳门",澳门Macau
+http://parking.treasureislandresortsworld.com:1001/hls/4/index.m3u8
+#EXTINF:-1 group-title="澳门",澳门体育
+http://parking.treasureislandresortsworld.com:1001/hls/16/index.m3u8
+#EXTINF:-1 group-title="澳门",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="澳门",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="香港",翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 group-title="香港",翡翠台
@@ -42,9 +68,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="香港",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 group-title="香港",凤凰中文
+http://parking.treasureislandresortsworld.com:1001/hls/302/index.m3u8
+#EXTINF:-1 group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 group-title="香港",凤凰资讯
+http://parking.treasureislandresortsworld.com:1001/hls/301/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="香港",凤凰资讯
@@ -99,14 +129,10 @@ https://mytv.cdn.loc.cc/o12.php?id=mzt
 https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 group-title="香港",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
-#EXTINF:-1 group-title="澳门",澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="澳门",澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="澳门",RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="澳门",RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="日本",NHK
+http://parking.treasureislandresortsworld.com:1001/hls/303/index.m3u8
+#EXTINF:-1 group-title="日本",DW
+http://parking.treasureislandresortsworld.com:1001/hls/304/index.m3u8
 #EXTINF:-1 group-title="经典",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 group-title="经典",龙华电影
