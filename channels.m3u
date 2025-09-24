@@ -411,6 +411,8 @@ http://nocable.cc:8080/riritaylor/R2424246188T/20073
 http://nocable.cc:8080/riritaylor/R2424246188T/53704
 #EXTINF:-1 group-title="赛事",广东体育
 http://xhyx.gz.cn:1698/hls/4/index.m3u8
+#EXTINF:-1 group-title="赛事",武术世界
+http://zh.sqitv.com:888/hls/38/index.m3u8
 #EXTINF:-1 group-title="华数",经典电影
 http://jdesdwb.dubya.net:18888/rtp/238.1.78.10:7984
 #EXTINF:-1 group-title="华数",谍战剧场
