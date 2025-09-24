@@ -122,35 +122,113 @@ http://jdesdwb.dubya.net:18888/rtp/238.1.78.110:6752
 #EXTINF:-1 group-title="卫视",兵团卫视
 http://jdesdwb.dubya.net:18888/rtp/238.1.78.104:6704
 #EXTINF:-1 group-title="卫视",金鹰卡通
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.100:6672
+#EXTINF:-1 group-title="卫视",金鹰卡通
 http://parking.treasureislandresortsworld.com:1001/hls/306/index.m3u8
+#EXTINF:-1 group-title="卫视",卡酷少儿
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.97:6648
 #EXTINF:-1 group-title="卫视",星空卫视
 http://parking.treasureislandresortsworld.com:1001/hls/314/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4K
+#EXTINF:-1 group-title="卫视",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 group-title="卫视",广东珠江
+http://xhyx.gz.cn:1698/hls/26/index.m3u8
+#EXTINF:-1 group-title="卫视",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="卫视",深圳财经生活
+https://cdn3.163189.xyz/163189/szcjsh
+#EXTINF:-1 group-title="卫视",第一财经
+https://cdn3.163189.xyz/163189/dycj
+#EXTINF:-1 group-title="卫视",CCTV-电视指南
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.53:4560
+#EXTINF:-1 group-title="卫视",CCTV-兵器科技
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.56:4584
+#EXTINF:-1 group-title="卫视",CCTV-第一剧场
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.63:4640
+#EXTINF:-1 group-title="卫视",CCTV-风云剧场
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.62:4632
+#EXTINF:-1 group-title="卫视",CCTV-风云音乐
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.64:4648
+#EXTINF:-1 group-title="卫视",CCTV-风云足球
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.57:4592
+#EXTINF:-1 group-title="卫视",CCTV-高尔夫·网球
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.58:4600
+#EXTINF:-1 group-title="卫视",CCTV-怀旧剧场
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.61:4624
+#EXTINF:-1 group-title="卫视",CCTV-女性时尚
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.55:4576
+#EXTINF:-1 group-title="卫视",CCTV-世界地理
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.60:4616
+#EXTINF:-1 group-title="卫视",CCTV-央视台球
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.59:4608
+#EXTINF:-1 group-title="卫视",CCTV-央视文化精品
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.54:4568
+#EXTINF:-1 group-title="卫视",CHC·影迷电影
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.17:4248
+#EXTINF:-1 group-title="卫视",CHC·动作电影
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.18:4256
+#EXTINF:-1 group-title="卫视",CHC·家庭影院
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.22:4288
+#EXTINF:-1 group-title="卫视",CETV-1
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.158:7136
+#EXTINF:-1 group-title="卫视",CETV-2
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.106:6720
+#EXTINF:-1 group-title="卫视",CETV-4
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.107:6728
+#EXTINF:-1 group-title="卫视-4K",CCTV-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.23:4296
-#EXTINF:-1 group-title="4K",北京卫视-4K
+#EXTINF:-1 group-title="卫视-4K",北京卫视-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.24:4304
-#EXTINF:-1 group-title="4K",江苏卫视-4K
+#EXTINF:-1 group-title="卫视-4K",江苏卫视-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.78.37:4088
-#EXTINF:-1 group-title="4K",东方卫视·4K
+#EXTINF:-1 group-title="卫视-4K",东方卫视·4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.39:4428
-#EXTINF:-1 group-title="4K",浙江卫视-4K
+#EXTINF:-1 group-title="卫视-4K",浙江卫视-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.28:4336
-#EXTINF:-1 group-title="4K",广东卫视-4K
+#EXTINF:-1 group-title="卫视-4K",广东卫视-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.25:4312
-#EXTINF:-1 group-title="4K",深圳卫视-4K
+#EXTINF:-1 group-title="卫视-4K",深圳卫视-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.26:4320
-#EXTINF:-1 group-title="4K",四川卫视-4K
+#EXTINF:-1 group-title="卫视-4K",深圳卫视-4K
+https://cdn3.163189.xyz/163189/szws4k
+#EXTINF:-1 group-title="卫视-4K",四川卫视-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.51:4520
-#EXTINF:-1 group-title="4K",湖南卫视-4K
+#EXTINF:-1 group-title="卫视-4K",湖南卫视-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.38:4416
-#EXTINF:-1 group-title="4K",山东卫视-4K
+#EXTINF:-1 group-title="卫视-4K",山东卫视-4K
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.29:4344
-#EXTINF:-1 group-title="4K",宁夏卫视-HD
+#EXTINF:-1 group-title="卫视-4K",宁夏卫视-HD
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.4:4144
-#EXTINF:-1 group-title="4K",新疆卫视-HD
+#EXTINF:-1 group-title="卫视-4K",新疆卫视-HD
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.2:4128
-#EXTINF:-1 group-title="4K",兵团卫视-HD
+#EXTINF:-1 group-title="卫视-4K",兵团卫视-HD
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.3:4136
+#EXTINF:-1 group-title="卫视-4K",翡翠台4K
+https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 group-title="央视网",相声小品
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.3:7928
+#EXTINF:-1 group-title="央视网",爱生活
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.17:4040
+#EXTINF:-1 group-title="央视网",地理
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.4:4144
+#EXTINF:-1 group-title="央视网",国学
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.34:4064
+#EXTINF:-1 group-title="央视网",鉴赏
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.38:4096
+#EXTINF:-1 group-title="央视网",解密
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.6:4160
+#EXTINF:-1 group-title="央视网",精选
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.19:4056
+#EXTINF:-1 group-title="央视网",军事
+http://jdesdwb.dubya.net:18888/rtp/238.1.79.3:4136
+#EXTINF:-1 group-title="央视网",墨宝
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.39:4104
+#EXTINF:-1 group-title="央视网",台球
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.251:7880
+#EXTINF:-1 group-title="央视网",戏曲
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.35:4072
+#EXTINF:-1 group-title="央视网",足球
+http://jdesdwb.dubya.net:18888/rtp/238.1.78.250:7872
 #EXTINF:-1 group-title="澳门",澳视澳门
 http://parking.treasureislandresortsworld.com:1001/hls/1/index.m3u8
 #EXTINF:-1 group-title="澳门",澳视澳门
@@ -183,14 +261,24 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="香港",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="香港",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 group-title="香港",翡翠台
+http://xhyx.gz.cn:1698/hls/5/index.m3u8
+#EXTINF:-1 group-title="香港",翡翠台字幕
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="香港",翡翠剧集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
+#EXTINF:-1 group-title="香港",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="香港",明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 group-title="香港",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 group-title="香港",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 group-title="香港",翡翠台北美版(TVB J1)
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="香港",明珠台字幕
+https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 group-title="香港",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="香港",TVB Plus
@@ -211,12 +299,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 http://parking.treasureislandresortsworld.com:1001/hls/302/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="香港",凤凰中文
+http://xhyx.gz.cn:1698/hls/32/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
 http://parking.treasureislandresortsworld.com:1001/hls/301/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 group-title="香港",凤凰资讯
+http://xhyx.gz.cn:1698/hls/31/index.m3u8
 #EXTINF:-1 group-title="香港",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="香港",美亚电影
@@ -225,14 +317,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 group-title="香港",八度空间
 http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 group-title="香港",CH5
+#EXTINF:-1 group-title="香港",CH5频道
 http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 group-title="香港",CH8
+#EXTINF:-1 group-title="香港",CH8频道
 http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 group-title="香港",CHU
+#EXTINF:-1 group-title="香港",CHU频道
 http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 group-title="香港",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 group-title="香港",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 group-title="香港",无线新闻台
@@ -251,19 +341,17 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="香港",NOW新闻台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="香港",翡翠台4K
-https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 group-title="香港",翡翠台字幕
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 group-title="香港",明珠台字幕
-https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 group-title="香港",TVB1
 https://6.cdn.loc.cc/163189.php?id=tvb1
-#EXTINF:-1 group-title="香港",翡翠剧集台
-https://6.cdn.loc.cc/163189.php?id=tvbd
-#EXTINF:-1 group-title="日本",NHK
+#EXTINF:-1 group-title="香港",新视觉
+http://xhyx.gz.cn:1698/hls/10/index.m3u8
+#EXTINF:-1 group-title="香港",星空卫视
+http://xhyx.gz.cn:1698/hls/35/index.m3u8
+#EXTINF:-1 group-title="香港",星河频道
+http://xhyx.gz.cn:1698/hls/53/index.m3u8
+#EXTINF:-1 group-title="亚洲",日本NHK
 http://parking.treasureislandresortsworld.com:1001/hls/303/index.m3u8
-#EXTINF:-1 group-title="日本",DW
+#EXTINF:-1 group-title="亚洲",日DW
 http://parking.treasureislandresortsworld.com:1001/hls/304/index.m3u8
 #EXTINF:-1 group-title="亚洲",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
@@ -277,38 +365,6 @@ http://php.jdshipin.com/smt.php?id=Huahee
 http://php.jdshipin.com/smt.php?id=TV8
 #EXTINF:-1 group-title="亚洲",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="卫视",深圳卫视4K
-https://cdn3.163189.xyz/163189/szws4k
-#EXTINF:-1 group-title="卫视",深圳财经生活
-https://cdn3.163189.xyz/163189/szcjsh
-#EXTINF:-1 group-title="卫视",广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 group-title="卫视",广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 group-title="卫视",第一财经
-https://cdn3.163189.xyz/163189/dycj
-#EXTINF:-1 group-title="赛事",五星体育
-https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 group-title="赛事",NBA
-http://nocable.cc:8080/riritaylor/R2424246188T/20073
-#EXTINF:-1 group-title="赛事",F1
-http://nocable.cc:8080/riritaylor/R2424246188T/53704
-#EXTINF:-1 group-title="赛事",广东体育
-http://xhyx.gz.cn:1698/hls/4/index.m3u8
-#EXTINF:-1 group-title="赛事",广东珠江
-http://xhyx.gz.cn:1698/hls/26/index.m3u8
-#EXTINF:-1 group-title="香港",翡翠台
-http://xhyx.gz.cn:1698/hls/5/index.m3u8
-#EXTINF:-1 group-title="香港",新视觉
-http://xhyx.gz.cn:1698/hls/10/index.m3u8
-#EXTINF:-1 group-title="香港",凤凰资讯
-http://xhyx.gz.cn:1698/hls/31/index.m3u8
-#EXTINF:-1 group-title="香港",凤凰中文
-http://xhyx.gz.cn:1698/hls/32/index.m3u8
-#EXTINF:-1 group-title="香港",星空卫视
-http://xhyx.gz.cn:1698/hls/35/index.m3u8
-#EXTINF:-1 group-title="香港",星河频道
-http://xhyx.gz.cn:1698/hls/53/index.m3u8
 #EXTINF:-1 group-title="经典",影迷电影
 http://xhyx.gz.cn:1698/hls/11/index.m3u8
 #EXTINF:-1 group-title="经典",家庭电影
@@ -347,6 +403,14 @@ https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 group-title="经典",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 group-title="赛事",五星体育
+https://cdn3.163189.xyz/163189/wxty
+#EXTINF:-1 group-title="赛事",NBA频道
+http://nocable.cc:8080/riritaylor/R2424246188T/20073
+#EXTINF:-1 group-title="赛事",F1频道
+http://nocable.cc:8080/riritaylor/R2424246188T/53704
+#EXTINF:-1 group-title="赛事",广东体育
+http://xhyx.gz.cn:1698/hls/4/index.m3u8
 #EXTINF:-1 group-title="华数",经典电影
 http://jdesdwb.dubya.net:18888/rtp/238.1.78.10:7984
 #EXTINF:-1 group-title="华数",谍战剧场
@@ -355,7 +419,7 @@ http://jdesdwb.dubya.net:18888/rtp/238.1.78.2:7920
 http://jdesdwb.dubya.net:18888/rtp/238.1.78.12:4000
 #EXTINF:-1 group-title="华数",军旅剧场
 http://jdesdwb.dubya.net:18888/rtp/238.1.78.11:7992
-#EXTINF:-1 group-title="华数",星影
+#EXTINF:-1 group-title="华数",星影剧场
 http://jdesdwb.dubya.net:18888/rtp/238.1.79.7:4168
 #EXTINF:-1 group-title="华数",家庭影院
 http://jdesdwb.dubya.net:18888/rtp/238.1.78.14:4016
