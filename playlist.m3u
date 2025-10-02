@@ -119,3 +119,9 @@ http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 #EXTINF:-1 group-title="港台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 group-title="港台" tvg-name="千禧经典" tvg-logo="https://live.fanmingming.cn/tv/千禧经典.png",千禧经典台
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="港台" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png",TVB星河台
+http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+#EXTINF:-1 group-title="港台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png",中天新闻台
+http://tlive24.uk/livehttpplay?channel_id=20163
