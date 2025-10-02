@@ -61,7 +61,7 @@ http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u8
 http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png",山东卫视
 http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png",山东教育卫视
+#EXTINF:-1 group-title="卫视" tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png",山东教育
 http://api.kkitv.itv888.cn:8080/hls/y5rpiddjcqf/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png",陕西卫视
 http://api.kkitv.itv888.cn:8080/hls/hyy3w1xyoaw/index.m3u8
