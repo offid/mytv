@@ -149,6 +149,12 @@ http://152.32.229.52:5050/4gtv-4gtv073/index.m3u8?proxy=true
 http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8?proxy=true
 #EXTINF:-1 group-title="港台" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.cn/tv/东森新闻.png",东森新闻
 http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 group-title="港台" tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png",东森电影
+http://cnlive.org/channel/7cb9a434/index.m3u8
+#EXTINF:-1 group-title="港台" tvg-name="纬来电影" tvg-logo="https://live.fanmingming.cn/tv/纬来电影.png",纬来电影
+http://cnlive.org/channel/581b458b/index.m3u8
+#EXTINF:-1 group-title="港台" tvg-name="美亚电影" tvg-logo="https://live.fanmingming.cn/tv/美亚电影.png",美亚电影
+http://cnlive.org/channel/n6d2f2fd2/index.m3u8
 #EXTINF:-1 group-title="港台",无线翡翠
 http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 group-title="港台",天映经典
