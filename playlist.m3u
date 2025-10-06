@@ -143,15 +143,15 @@ http://cnlive.org/channel/581b458b/index.m3u8
 http://cnlive.org/channel/n6d2f2fd2/index.m3u8
 #EXTINF:-1 group-title="香港",NOW新闻台
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="澳门",澳视澳门
+#EXTINF:-1 group-title="澳门",tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="澳门",澳视卫星
+#EXTINF:-1 group-title="澳门",tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.cn/tv/澳视卫星.png",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="澳门" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.cn/tv/澳门莲花.png",澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 group-title="澳门",澳门综艺
+#EXTINF:-1 group-title="澳门",tvg-name="澳门综艺" tvg-logo="https://live.fanmingming.cn/tv/澳门综艺.png",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 group-title="澳门",澳门体育
+#EXTINF:-1 group-title="澳门",tvg-name="澳门体育" tvg-logo="https://live.fanmingming.cn/tv/澳门体育.png",澳门体育
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 group-title="台湾" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png",中天新闻
 http://tlive24.uk/livehttpplay?channel_id=20163
