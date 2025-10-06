@@ -68,7 +68,7 @@ http://api.kkitv.itv888.cn:8080/hls/y5rpiddjcqf/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png",陕西卫视
 http://api.kkitv.itv888.cn:8080/hls/hyy3w1xyoaw/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png",山西卫视
 http://110.177.144.19:9003/hls/19/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png",湖北卫视
