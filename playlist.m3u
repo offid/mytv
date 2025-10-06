@@ -30,7 +30,7 @@ http://ygbh.site/php/bfgd.php?id=067
 #EXTINF:-1 group-title="央视" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png",CCTV-14
 http://ygbh.site/php/bfgd.php?id=132
 #EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png",CCTV-15
-http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
+http://ygbh.site/php/bfgd.php?id=133
 #EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png",CCTV-16
 http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png",CCTV-17
@@ -44,13 +44,13 @@ http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png",湖南卫视
 http://ygbh.site/php/bfgd.php?id=086
 #EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png",东方卫视
-http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
+http://ygbh.site/php/bfgd.php?id=093
 #EXTINF:-1 group-title="卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png",江西卫视
 http://api.kkitv.itv888.cn:8080/hls/pv0np60bpin/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
 http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png",辽宁卫视
-http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
+http://ygbh.site/php/bfgd.php?id=058
 #EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png",黑龙江卫视
 http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png",大湾区卫视
@@ -62,7 +62,7 @@ http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png",吉林卫视
 http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png",广东卫视
-http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
+http://ygbh.site/php/bfgd.php?id=092
 #EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png",山东卫视
 http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png",山东教育
@@ -74,9 +74,9 @@ http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png",山西卫视
 http://ygbh.site/php/bfgd.php?id=109
 #EXTINF:-1 group-title="卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png",湖北卫视
-http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
+http://ygbh.site/php/bfgd.php?id=102
 #EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png",东南卫视
-http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
+http://ygbh.site/php/bfgd.php?id=483
 #EXTINF:-1 group-title="卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png",四川卫视
 http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png",云南卫视
@@ -88,7 +88,7 @@ http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png",甘肃卫视
 http://api.kkitv.itv888.cn:8080/hls/lcceocfdwh/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png",深圳卫视
-http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
+http://ygbh.site/php/bfgd.php?id=100
 #EXTINF:-1 group-title="卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png",广西卫视
 http://ygbh.site/php/bfgd.php?id=116
 #EXTINF:-1 group-title="卫视" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png",广东珠江
