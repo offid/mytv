@@ -185,12 +185,14 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="港台",无线星河
 http://php.jdshipin.com/smt.php?id=Xinhe
-#EXTINF:-1 group-title="港台",八度空间
-http://php.jdshipin.com/smt.php?id=TV8
 #EXTINF:-1 group-title="港台",无线千禧
 http://php.jdshipin.com/smt.php?id=Tvbclassic
 #EXTINF:-1 group-title="港台",AstroQJ
 http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="港台",CH5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="港台",CH8
+http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="体育",五星体育
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 group-title="体育",广东体育
