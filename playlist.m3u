@@ -229,3 +229,6 @@ http://cnlive.org/channel/5acb9d16/index.m3u8
 http://cnlive.org/channel/5a3b7abe/index.m3u8
 #EXTINF:-1 group-title="4K频道" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png",深圳卫视
 https://cdn3.163189.xyz/163189/szws4k
+#EXTINF:-1 group-title="4K频道" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+http://cdn6.163189.xyz/163189/fct4k
+
