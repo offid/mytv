@@ -39,6 +39,26 @@ http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 group-title="央视",CGTN-法语频道
 https://fclivetool.com/live.m3u
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视
+http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视
+http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视
+http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视
+http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视
+http://api.kkitv.itv888.cn:8080/hls/zkb0p6ypy6o/index.m3u8
 #EXTINF:-1 group-title="影院",喜乐影院
 http://cfss.cc/cdn/hy/21059580.m3u8
 #EXTINF:-1 group-title="影院",嫣然影厅
