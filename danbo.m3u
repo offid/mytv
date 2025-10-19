@@ -21,6 +21,8 @@ http://api.kkitv.itv888.vip:8080/streams/vseo1nm7qp/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/bsmkmf3jrp4/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV10-科教
 http://api.kkitv.itv888.vip:8080/streams/wd86wxjxn8/index.m3u8
+#EXTINF:-1 group-title="精选",CCTV11-戏曲
+http://api.kkitv.itv888.vip:8080/streams/og4kq4cnqm/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV12-社会与法
 http://api.kkitv.itv888.vip:8080/streams/nwfb31kwc3l/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV13-新闻
