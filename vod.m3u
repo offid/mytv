@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视",CCTV1-综合
+http://ygbh.site/php/bfgd.php?id=488
+#EXTINF:-1 group-title="央视",CCTV1-综合
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2-财经
 http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
