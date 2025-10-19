@@ -5,6 +5,8 @@ http://api.kkitv.itv888.vip:8080/streams/f5fuln3kthe/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/4nlkhc68gfu/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV3-综艺
 http://api.kkitv.itv888.vip:8080/streams/aikp69mli0d/index.m3u8
+#EXTINF:-1 group-title="精选",CCTV4-中文国际
+http://api.kkitv.itv888.vip:8080/streams/25uo2rutach/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV5-体育
 http://api.kkitv.itv888.vip:8080/streams/7vx0ia55les/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV5+-赛事
