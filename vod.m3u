@@ -61,6 +61,10 @@ http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
 http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
 #EXTINF:-1 group-title="卫视",河南卫视
 http://api.kkitv.itv888.cn:8080/hls/zkb0p6ypy6o/index.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视
+http://ygbh.site/php/bfgd.php?id=487
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://ygbh.site/php/bfgd.php?id=489
 #EXTINF:-1 group-title="影院",喜乐影院
 http://cfss.cc/cdn/hy/21059580.m3u8
 #EXTINF:-1 group-title="影院",嫣然影厅
