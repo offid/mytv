@@ -11,6 +11,8 @@ http://api.kkitv.itv888.vip:8080/streams/7vx0ia55les/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/xsb4znrv3c/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV6-电影
 http://api.kkitv.itv888.vip:8080/streams/tp9ajk4od5/index.m3u8
+#EXTINF:-1 group-title="精选",CCTV7-国防军事
+http://api.kkitv.itv888.vip:8080/streams/3udggaszi1i/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV8-电视剧
 http://api.kkitv.itv888.vip:8080/streams/vseo1nm7qp/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV9-纪录
