@@ -29,6 +29,8 @@ http://api.kkitv.itv888.vip:8080/streams/nwfb31kwc3l/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/9sxg4yjgot/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV14-少儿
 http://api.kkitv.itv888.vip:8080/streams/dyfpqk8fpzi/index.m3u8
+#EXTINF:-1 group-title="精选",CCTV15-音乐
+http://api.kkitv.itv888.vip:8080/streams/hcwu4ianhgw/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV17-农业农村
 http://api.kkitv.itv888.vip:8080/streams/5t4bgijh9da/index.m3u8
 #EXTINF:-1 group-title="精选",江苏卫视
