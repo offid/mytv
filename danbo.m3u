@@ -35,6 +35,8 @@ http://api.kkitv.itv888.vip:8080/streams/hcwu4ianhgw/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/qazacsm0hgl/index.m3u8
 #EXTINF:-1 group-title="精选",CCTV17-农业农村
 http://api.kkitv.itv888.vip:8080/streams/5t4bgijh9da/index.m3u8
+#EXTINF:-1 group-title="精选",CGTN-英语
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 group-title="精选",江苏卫视
 http://api.kkitv.itv888.vip:8080/streams/g1upm1u239/index.m3u8
 #EXTINF:-1 group-title="精选",东方卫视
