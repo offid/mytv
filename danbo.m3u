@@ -45,6 +45,8 @@ http://api.kkitv.itv888.vip:8080/streams/hoxiunz7ce/index.m3u8
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 group-title="精选",中天新闻
 http://tlive24.uk/livehttpplay?channel_id=20163
+#EXTINF:-1 group-title="精选",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="精选",莲花卫视
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 group-title="精选",寰宇新闻
