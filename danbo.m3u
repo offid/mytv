@@ -67,6 +67,8 @@ https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 group-title="精选",凤凰香港台
 https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8
+#EXTINF:-1 group-title="精选",凤凰美洲台
+https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
 #EXTINF:-1 group-title="精选",中天新闻
 https://k44991.kylintv.tv/live/cti_iphone.m3u8
 #EXTINF:-1 group-title="精选",华视
