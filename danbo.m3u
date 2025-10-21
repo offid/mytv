@@ -62,9 +62,9 @@ http://222.128.55.152:9080/live/hy.m3u8
 #EXTINF:-1 group-title="精选",台视新闻
 http://222.128.55.152:9080/live/ts.m3u8
 #EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1-综合
-http://116.232.150.101:6000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://116.232.150.101:6000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0&down=1
 #EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV2-财经
-http://116.232.150.101:6000/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
+http://116.232.150.101:6000/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0&down=1
 #EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV3-综艺
 http://116.232.150.101:6000/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV4-中文国际
