@@ -45,6 +45,12 @@ http://api.kkitv.itv888.vip:8080/streams/p269fvbehye/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/hoxiunz7ce/index.m3u8
 #EXTINF:-1 group-title="精选",浙江卫视
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
+#EXTINF:-1 group-title="精选",金鹰纪实HD
+http://117.27.190.42:85/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="精选",凤凰资讯HD
+http://117.27.190.42:85/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="精选",凤凰中文HD
+http://117.27.190.42:85/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="精选",中天新闻
 http://tlive24.uk/livehttpplay?channel_id=20163
 #EXTINF:-1 group-title="精选",中天娱乐
