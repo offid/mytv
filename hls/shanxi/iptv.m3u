@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="港台",凤凰卫视高清
 http://113.25.105.156:10000/udp/239.1.1.126:8126
+#EXTINF:-1 group-title="港台",凤凰资讯高清
+http://113.25.105.156:10000/udp/239.1.1.127:8127
 #EXTINF:-1 group-title="央视",CCTV1高清
 http://113.25.105.156:10000/udp/239.1.1.7:8007
 #EXTINF:-1 group-title="央视",CCTV2高清
@@ -37,8 +39,36 @@ http://113.25.105.156:10000/udp/239.1.1.22:8022
 http://113.25.105.156:10000/udp/239.1.1.122:8122
 #EXTINF:-1 group-title="央视",CCTV17高清
 http://113.25.105.156:10000/udp/239.1.1.23:8023
-#EXTINF:-1 group-title="央视",CGTN英语
-http://171.213.128.218:8000/udp/239.93.0.104:5140
+#EXTINF:-1 group-title="央视",CCTV女性时尚高清
+http://113.25.105.156:10000/udp/239.1.1.89:8089
+#EXTINF:-1 group-title="央视",CCTV电视指南高清
+http://113.25.105.156:10000/udp/239.1.1.90:8090
+#EXTINF:-1 group-title="央视",CCTV央视文化精品高清
+http://113.25.105.156:10000/udp/239.1.1.91:8091
+#EXTINF:-1 group-title="央视",CCTV风云剧场高清
+http://113.25.105.156:10000/udp/239.1.1.93:8093
+#EXTINF:-1 group-title="央视",CCTV第一剧场高清
+http://113.25.105.156:10000/udp/239.1.1.94:8094
+#EXTINF:-1 group-title="央视",CCTV怀旧剧场高请
+http://113.25.105.156:10000/udp/239.1.1.95:8095
+#EXTINF:-1 group-title="央视",CCTV风云音乐高请
+http://113.25.105.156:10000/udp/239.1.1.96:8096
+#EXTINF:-1 group-title="央视",CCTV兵器科技高清
+http://113.25.105.156:10000/udp/239.1.1.97:8097
+#EXTINF:-1 group-title="央视",CCTV世界地理高清
+http://113.25.105.156:10000/udp/239.1.1.99:8099
+#EXTINF:-1 group-title="央视",CCTV央视台球高清
+http://113.25.105.156:10000/udp/239.1.1.100:8100
+#EXTINF:-1 group-title="央视",CCTV风云足球高清
+http://113.25.105.156:10000/udp/239.1.1.101:8101
+#EXTINF:-1 group-title="央视",CCTV高尔夫网球高清
+http://113.25.105.156:10000/udp/239.1.1.102:8102
+#EXTINF:-1 group-title="央视",中国教育电视台1
+http://113.25.105.156:10000/udp/239.1.1.65:8065
+#EXTINF:-1 group-title="央视",中国教育电视台2
+http://113.25.105.156:10000/udp/239.1.1.66:8066
+#EXTINF:-1 group-title="央视",中国教育电视台4
+http://113.25.105.156:10000/udp/239.1.1.67:8067
 #EXTINF:-1 group-title="卫视",四川卫视高清
 http://171.213.128.218:8000/udp/239.93.0.20:1235
 #EXTINF:-1 group-title="卫视",湖南卫视高清
