@@ -37,6 +37,10 @@ http://api.kkitv.itv888.vip:8080/streams/qazacsm0hgl/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/5t4bgijh9da/index.m3u8
 #EXTINF:-1 group-title="精选",CGTN-英语
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 group-title="精选",中国电影频道
+https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
+#EXTINF:-1 group-title="精选",福建海峡卫视
+https://k44991.kylintv.tv/live/fjstv_iphone.m3u8
 #EXTINF:-1 group-title="精选",江苏卫视
 http://api.kkitv.itv888.vip:8080/streams/g1upm1u239/index.m3u8
 #EXTINF:-1 group-title="精选",东方卫视
@@ -55,6 +59,8 @@ http://117.27.190.42:85/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 http://tlive24.uk/livehttpplay?channel_id=20163
 #EXTINF:-1 group-title="精选",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="精选",北美新闻台
+https://k44991.kylintv.tv/live/qljdhd_iphone.m3u8
 #EXTINF:-1 group-title="精选",莲花卫视
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 group-title="精选",寰宇新闻
